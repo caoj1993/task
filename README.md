@@ -1,5 +1,5 @@
-# IFE-OnePx第一阶段任务
-查看地址：http://ife-onepx.github.io/stage_1
+# IFE-OnePx任务主页
+查看地址：http://ife-onepx.github.io/task
 
-## 任务名称
-查看地址：http://ife-onepx.github.io/stage_1
+## 任务列表
+http://ife.baidu.com/task/all
